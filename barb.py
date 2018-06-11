@@ -1,5 +1,5 @@
 # - coding: utf-8 --
-import telebotç
+import telebot
 from telebot import types
 TOKEN = '558806392:AAG9RMUkpApca1ka4MmOJyvEqEtf6vQdsjw'
 bot = telebot.TeleBot(TOKEN)
