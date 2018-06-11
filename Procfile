@@ -1,1 +1,1 @@
-web: python barb.py
+bot: python barb.py
